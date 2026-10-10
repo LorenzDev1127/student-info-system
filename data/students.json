@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Juan Dela Cruz",
+    "email": "juan.delacruz@example.edu.ph",
+    "course": "BSIT",
+    "year_level": 3,
+    "gpa": 1.75,
+    "student_id": "STU-1A2B3C",
+    "created_at": "2026-10-01T08:30:00",
+    "updated_at": "2026-10-01T08:30:00"
+  },
+  {
+    "name": "Maria Santos",
+    "email": "maria.santos@example.edu.ph",
+    "course": "BSCS",
+    "year_level": 2,
+    "gpa": 1.5,
+    "student_id": "STU-4D5E6F",
+    "created_at": "2026-10-01T08:35:00",
+    "updated_at": "2026-10-01T08:35:00"
+  },
+  {
+    "name": "Jose Rizal Mercado",
+    "email": "jose.mercado@example.edu.ph",
+    "course": "BSIT",
+    "year_level": 4,
+    "gpa": 2.0,
+    "student_id": "STU-7A8B9C",
+    "created_at": "2026-10-01T08:40:00",
+    "updated_at": "2026-10-01T08:40:00"
+  }
+]
