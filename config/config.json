@@ -1,0 +1,31 @@
+{
+  "app": {
+    "name": "Student Information System",
+    "version": "1.0.0"
+  },
+  "storage": {
+    "data_file": "data/students.json",
+    "backup_on_corrupt": true
+  },
+  "logging": {
+    "level": "INFO",
+    "file": "logs/app.log",
+    "max_bytes": 1048576,
+    "backup_count": 3,
+    "console": false
+  },
+  "export": {
+    "directory": "exports"
+  },
+  "students": {
+    "id_prefix": "STU",
+    "min_year_level": 1,
+    "max_year_level": 5,
+    "min_gpa": 1.0,
+    "max_gpa": 5.0
+  },
+  "ui": {
+    "use_colors": true,
+    "clear_screen": true
+  }
+}
